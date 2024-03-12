@@ -5,6 +5,7 @@ import pandas as pd
 i=1
 iter=46
 
+# grid reference points
 true_x=np.array([0.5,1,1.5,2,2.5]+[0,0.5,1,1.5,2,2.5]*6+[0.5,1,1.5,2,2.5])
 true_y=np.array([0]*5+[0.5]*6+[1]*6+[1.5]*6+[2]*6+[2.5]*6+[3]*6+[3.5]*5)
 
