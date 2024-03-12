@@ -1,6 +1,8 @@
 # Final-RP-crazyflie-repository
 Ubuntu version=23.10
+
 python3 version=3.11.6
+
 USER must have sudo rights.
 
 ## Installing the Linux driver for the WiFi dongle
