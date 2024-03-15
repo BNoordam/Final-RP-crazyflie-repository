@@ -1,4 +1,4 @@
-**swarm trajectories**
+# swarm trajectories
 
 Two mirrored spiral trajectories for swarm flight, generated in uav_trajectories. 
 Timed_waypoints files are used as a reference for processing the logged position data.
