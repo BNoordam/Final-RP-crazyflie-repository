@@ -5,6 +5,8 @@ python3 version=3.11.6
 
 USER must have sudo rights.
 
+Bitcraze virtual machine can also be used off the shelf for flashing firmware, and can be used as a refrence when flashing does not work on the home pc. All instructions here do not need the virtual machine HYPERLINK. 
+
 ## Installing the Linux driver for the WiFi dongle
 
 Commands for installing the Edimax AC600 Wi-Fi USB adapter
