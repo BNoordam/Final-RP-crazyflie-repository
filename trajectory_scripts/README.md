@@ -1,4 +1,4 @@
-**Trajectory following scripts**
+# Trajectory following scripts
 
 The script Spiral_trajectory_log_cam.py lets a Crazyflie fly a predetermined trajectory generated in uav_trajectories, logs the Kalman position estimates, and saves an image stream send by the AI deck over WIFI, by calling the opencv-viewer.py script.
 The trajectory to fly can be changed by uploading a different 8th-order polynomial generated in uav_trajectories instead of "yaw20_cf1.csv" in line 66. The trajectory following code was based on: https://github.com/bitcraze/crazyflie-lib-python/blob/master/examples/autonomy/autonomous_sequence_high_level.py
