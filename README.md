@@ -34,3 +34,20 @@ git clone https://github.com/bitcraze/crazyflie-lib-python.git
 cd crazyflie-lib-python
 pip3 install -e .
 ```
+
+## Hierarchy
+First, install the package dependencies in this README. Then flash the crazyflie-firmware  
+
+Before running the trajectory following scripts:
+- Install the Linux driver for the WiFi dongle
+- Setup the loco positioning system following https://www.bitcraze.io/documentation/tutorials/getting-started-with-loco-positioning-system/
+- Setup the AI deck following the instructions in the aideck-gap8-examples repository.
+- Install uav_trajectories
+- Generate trajectories for the Crazyflie to follow in uav_trajectories.
+
+The logged position data can be used in the data processing scripts (also located in trajectory scripts). And the saved images in the NN from the deep-multirobot repository.
+
+
+
+
+
