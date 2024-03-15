@@ -47,7 +47,7 @@ Before running the trajectory following scripts:
 - Install uav_trajectories
 - Generate trajectories for the Crazyflie to follow in uav_trajectories.
 
-The logged position data can be used in the data processing scripts (also located in trajectory scripts). And the saved images in the NN from the deep-multirobot repository.
+After running the trajectory following scripts, the logged position data can be used in the data processing scripts (also located in trajectory scripts). And the saved images in the NN from the deep-multirobot repository.
 
 
 
