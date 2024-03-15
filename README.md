@@ -9,7 +9,7 @@ Bitcraze virtual machine can also be used off the shelf for flashing firmware, a
 
 ## Installing the Linux driver for the WiFi dongle
 
-Commands for installing the Edimax AC600 Wi-Fi USB adapter
+Commands for installing the Edimax AC600 Wi-Fi USB adapter, received from Simon at the DTPA lab.
 ```
 Sudo apt-get update
 Sudo apt-get install DKMS
