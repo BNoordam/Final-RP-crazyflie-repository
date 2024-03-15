@@ -1,4 +1,4 @@
-**Scripts for measuring the UWB accuracy with a 0.5m interval grid on the ground**
+# Scripts for measuring the UWB accuracy with a 0.5m interval grid on the ground
 
 This folder includes scripts for collecting and processing data for determining the accuracy of the UWB system with a grid.
 
