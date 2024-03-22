@@ -37,7 +37,7 @@ cd crazyflie-lib-python
 pip3 install -e .
 ```
 
-## Hierarchy
+## Work flow
 First, install the package dependencies in this README. Then flash the crazyflie-firmware  
 
 Before running the trajectory following scripts:
