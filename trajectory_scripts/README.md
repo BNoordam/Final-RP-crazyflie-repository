@@ -16,4 +16,4 @@ MAE_traject_Fit.py determines the MAE for x, y, z, and yaw by comparing the posi
 ![flowchartGit drawio](https://github.com/BNoordam/Final-RP-crazyflie-repository/assets/146953161/331b81de-9727-419d-a538-6e3af9275bbb)
 
 ## Flowchart explanation
-Explain where to find data and .py files
+All of the .py files in the flowchart are found in this directory. The logged position data, yaw{i} files, and the timed_waypoints_yaw{i} files can all be found in the Google drive in data/crazyflie trajectories.
