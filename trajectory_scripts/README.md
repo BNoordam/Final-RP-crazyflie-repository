@@ -14,3 +14,5 @@ MAE_traject_Fit.py determines the MAE for x, y, z, and yaw by comparing the posi
 ## Flowchart of the data/activity flow of the scripts in this folder
 
 ![flowchartGit drawio](https://github.com/BNoordam/Final-RP-crazyflie-repository/assets/146953161/331b81de-9727-419d-a538-6e3af9275bbb)
+
+## Flowchart explanation
