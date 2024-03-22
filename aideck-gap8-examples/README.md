@@ -26,4 +26,4 @@ python opencv-viewer.py
 
 Images are saved in the same folder as opencv-viewer.py in /stream_out/raw/
 
-One error that appears when running the WiFi video streamer could not be solved in this research: qt.qpa.plugin: Could not find the Qt platform plugin "wayland" in "/home/Bjorn/.local/lib/python3.11/site-packages/cv2/qt/plugins". Bitcraze states that this should not make a difference in framerate
+One error that appears when running the WiFi video streamer could not be solved in this research: qt.qpa.plugin: Could not find the Qt platform plugin "wayland" in "/home/Bjorn/.local/lib/python3.11/site-packages/cv2/qt/plugins". Bitcraze states that this should not make a difference in framerate (https://github.com/orgs/bitcraze/discussions/1232)
