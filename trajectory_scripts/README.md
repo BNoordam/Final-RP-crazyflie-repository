@@ -1,4 +1,4 @@
-# Trajectory following scripts  (LInk with report)
+# Trajectory following scripts 
 
 The script Spiral_trajectory_log_cam.py lets a Crazyflie fly a predetermined trajectory generated in uav_trajectories, logs the Kalman position estimates, and saves an image stream sent by the AI deck over WIFI, by calling the opencv-viewer.py script.
 The trajectory to fly can be changed by uploading a different 8th-order polynomial generated in uav_trajectories instead of "yaw20_cf1.csv" in line 66. The trajectory following code was based on: https://github.com/bitcraze/crazyflie-lib-python/blob/master/examples/autonomy/autonomous_sequence_high_level.py
@@ -16,4 +16,4 @@ MAE_traject_Fit.py determines the MAE for x, y, z, and yaw by comparing the posi
 ![flowchartGit drawio](https://github.com/BNoordam/Final-RP-crazyflie-repository/assets/146953161/331b81de-9727-419d-a538-6e3af9275bbb)
 
 ## Flowchart explanation
-All of the .py files in the flowchart are found in this directory. The logged position data, yaw{i} files, and the timed_waypoints_yaw{i} files can all be found in the Google drive in data/crazyflie trajectories.
+All of the .py files in the flowchart are found in this directory. The logged position data, yaw{i} files, and the timed_waypoints_yaw{i} files can all be found in the Google drive in data/crazyflie trajectories. Two examples of yaw{i}, and timed_waypoints_yaw{i} are also found in this directory in the swarm_csv_files map.
